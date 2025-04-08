@@ -12,3 +12,39 @@ CodingTest_Book_1/CppProject/.vs/CppProject/v17/ipch/AutoPCH/b05a90abc6ea66da/CP
 .vs/
 x64/
 *.exe.recipe
+# =============== #
+# Visual Studio   #
+# =============== #
+.vs/                    # 사용자 설정 폴더
+*.suo                  # 사용자 설정 파일
+*.user
+*.userosscache
+*.sln.docstates
+
+# =============== #
+# 빌드 결과물     #
+# =============== #
+*.exe
+*.obj
+*.pdb
+*.ilk
+*.idb
+*.tlog
+*.lastbuildstate
+*.log
+*.recipe
+
+# =============== #
+# 빌드 폴더 무시  #
+# =============== #
+[Bb]in/
+[Oo]bj/
+x64/
+Debug/
+Release/
+
+# =============== #
+# 기타            #
+# =============== #
+*.vc.db
+*.opendb
