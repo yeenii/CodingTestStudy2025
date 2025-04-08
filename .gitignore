@@ -4,3 +4,11 @@ CodingTest_Book_1/CppProject/.vs/CppProject/v17/Browse.VC.db-shm
 CodingTest_Book_1/CppProject/.vs/CppProject/v17/Browse.VC.db-wal
 CodingTest_Book_1/CppProject/.vs/CppProject/v17/Browse.VC.opendb
 CodingTest_Book_1/CppProject/.vs/CppProject/v17/ipch/AutoPCH/b05a90abc6ea66da/CPP28.ipch
+*.log
+*.tlog
+*.lastbuildstate
+*.suo
+*.VC.db
+.vs/
+x64/
+*.exe.recipe
