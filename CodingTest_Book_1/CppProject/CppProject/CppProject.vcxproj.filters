@@ -117,5 +117,8 @@
     <ClCompile Include="cpp30.cpp">
       <Filter>소스 파일\Tree</Filter>
     </ClCompile>
+    <ClCompile Include="cpp31.cpp">
+      <Filter>소스 파일\Tree</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
