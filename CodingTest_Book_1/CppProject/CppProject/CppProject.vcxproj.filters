@@ -28,6 +28,9 @@
     <Filter Include="소스 파일\Tree">
       <UniqueIdentifier>{d2b5b60a-11d5-4e0d-bee6-b48cf2aad196}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\Set">
+      <UniqueIdentifier>{b4c0f1a1-e65b-4696-87c4-539b97e5c46b}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="cpp7.cpp">
@@ -122,6 +125,9 @@
     </ClCompile>
     <ClCompile Include="cpp32.cpp">
       <Filter>소스 파일\Tree</Filter>
+    </ClCompile>
+    <ClCompile Include="cpp33.cpp">
+      <Filter>소스 파일\Set</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
