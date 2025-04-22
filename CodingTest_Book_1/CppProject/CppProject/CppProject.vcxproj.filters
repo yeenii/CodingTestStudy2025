@@ -129,5 +129,14 @@
     <ClCompile Include="cpp33.cpp">
       <Filter>소스 파일\Set</Filter>
     </ClCompile>
+    <ClCompile Include="cpp33_1.cpp">
+      <Filter>소스 파일\Set</Filter>
+    </ClCompile>
+    <ClCompile Include="repeat_33.cpp">
+      <Filter>소스 파일\Set</Filter>
+    </ClCompile>
+    <ClCompile Include="cpp34.cpp">
+      <Filter>소스 파일\Set</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
