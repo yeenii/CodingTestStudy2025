@@ -31,6 +31,9 @@
     <Filter Include="소스 파일\Set">
       <UniqueIdentifier>{b4c0f1a1-e65b-4696-87c4-539b97e5c46b}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\Graph">
+      <UniqueIdentifier>{93c4a8c7-28cb-4a76-bf31-e94223586f7c}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="cpp7.cpp">
@@ -140,6 +143,9 @@
     </ClCompile>
     <ClCompile Include="cpp35.cpp">
       <Filter>소스 파일\Set</Filter>
+    </ClCompile>
+    <ClCompile Include="cpp36.cpp">
+      <Filter>소스 파일\Graph</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
