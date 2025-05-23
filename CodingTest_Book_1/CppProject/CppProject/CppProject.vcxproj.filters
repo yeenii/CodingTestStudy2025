@@ -34,6 +34,9 @@
     <Filter Include="소스 파일\Graph">
       <UniqueIdentifier>{93c4a8c7-28cb-4a76-bf31-e94223586f7c}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\Simulation">
+      <UniqueIdentifier>{fc686301-de7d-4cd8-8dee-0ee74a40b60f}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="cpp7.cpp">
@@ -149,6 +152,9 @@
     </ClCompile>
     <ClCompile Include="cpp37.cpp">
       <Filter>소스 파일\Graph</Filter>
+    </ClCompile>
+    <ClCompile Include="2025_afternoon_1.cpp">
+      <Filter>소스 파일\Simulation</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
