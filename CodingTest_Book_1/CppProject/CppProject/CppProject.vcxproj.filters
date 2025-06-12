@@ -165,5 +165,8 @@
     <ClCompile Include="고대문명유적탐사.cpp">
       <Filter>Samsung</Filter>
     </ClCompile>
+    <ClCompile Include="민트초코우유.cpp">
+      <Filter>Samsung</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
