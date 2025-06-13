@@ -37,7 +37,7 @@
     <Filter Include="소스 파일\Simulation">
       <UniqueIdentifier>{fc686301-de7d-4cd8-8dee-0ee74a40b60f}</UniqueIdentifier>
     </Filter>
-    <Filter Include="Samsung">
+    <Filter Include="소스 파일\Samsung">
       <UniqueIdentifier>{b5eac7c5-8279-432d-8858-d07a770b44be}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
@@ -160,13 +160,16 @@
       <Filter>소스 파일\Simulation</Filter>
     </ClCompile>
     <ClCompile Include="마법의숲.cpp">
-      <Filter>Samsung</Filter>
+      <Filter>소스 파일\Samsung</Filter>
     </ClCompile>
     <ClCompile Include="고대문명유적탐사.cpp">
-      <Filter>Samsung</Filter>
+      <Filter>소스 파일\Samsung</Filter>
     </ClCompile>
     <ClCompile Include="민트초코우유.cpp">
-      <Filter>Samsung</Filter>
+      <Filter>소스 파일\Samsung</Filter>
+    </ClCompile>
+    <ClCompile Include="미생물연구.cpp">
+      <Filter>소스 파일\Samsung</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
