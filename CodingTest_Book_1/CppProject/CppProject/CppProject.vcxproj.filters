@@ -40,6 +40,9 @@
     <Filter Include="소스 파일\Samsung">
       <UniqueIdentifier>{b5eac7c5-8279-432d-8858-d07a770b44be}</UniqueIdentifier>
     </Filter>
+    <Filter Include="BaekJoon">
+      <UniqueIdentifier>{e905a97e-ec0a-4c5f-829e-a2ba4c95c2d8}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="cpp7.cpp">
@@ -173,6 +176,9 @@
     </ClCompile>
     <ClCompile Include="메두사와전사들.cpp">
       <Filter>소스 파일\Samsung</Filter>
+    </ClCompile>
+    <ClCompile Include="DFSAndBFS.cpp">
+      <Filter>BaekJoon</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
