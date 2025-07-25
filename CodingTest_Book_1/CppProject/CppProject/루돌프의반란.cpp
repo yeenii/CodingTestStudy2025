@@ -134,7 +134,7 @@ int main(int argc, char** argv)
 				gameSpace[rudRow][rudCol] = 0; //기존 루돌프 위치 삭제
 				rudRow += moveX;
 				rudCol += moveY;
-
+				gameSpace[rudRow][rudCol] = -1; //루돌프 위치 
 				//cout << rudRow << " " << rudCol << endl;
 
 				//루돌프와 산타가 충돌한 경우
@@ -197,7 +197,7 @@ int main(int argc, char** argv)
 
 				}
 			}
-			gameSpace[rudRow][rudCol] = -1; //루돌프 위치 
+			
 
 			/*for (int i = 1; i <= n; i++)
 			{
