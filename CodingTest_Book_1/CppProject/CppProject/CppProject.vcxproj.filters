@@ -180,5 +180,8 @@
     <ClCompile Include="DFSAndBFS.cpp">
       <Filter>BaekJoon</Filter>
     </ClCompile>
+    <ClCompile Include="루돌프의반란.cpp">
+      <Filter>소스 파일\Samsung</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
